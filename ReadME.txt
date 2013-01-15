@@ -1,4 +1,4 @@
-Written by Sime Heshkovich and Christopher Saunders
+Written by Sime Hershkovich and Christopher Saunders
 
 Csound MUST be installed in usr/local/bin for this program to generate sound.
 
