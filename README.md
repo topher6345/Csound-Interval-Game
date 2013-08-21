@@ -6,11 +6,11 @@ by Sime Hershkovich and Christopher Saunders
 
 [Csound](http://sourceforge.net/projects/csound/files/csound5/)
 
-to compile:
+###To compile:
 ```bash
 gcc -o ETGame ETGame.c
 ```
-to run:
+###To run:
 ```bash
 ./ETGame
 ```
