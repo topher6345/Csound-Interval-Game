@@ -14,3 +14,4 @@ gcc -o ETGame ETGame.c
 ```bash
 ./ETGame
 ```
+
